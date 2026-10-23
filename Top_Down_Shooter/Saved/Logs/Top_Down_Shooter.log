@@ -1296,3 +1296,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2026.10.23-15.07.59:342][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.10.23-15.07.59:347][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
 [2026.10.23-15.07.59:362][947]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.10.23-15.12.13:995][763]LogEditorViewport: Clicking on Actor (LMB): BP_Marine01_C (BP_Marine01)
+[2026.10.23-15.12.18:035][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2026.10.23-15.12.18:807][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/01" FILE="../../../../../../Users/mad/Desktop/TopDownShooterRok22027MH/Top_Down_Shooter/Content/01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.10.23-15.12.18:839][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2026.10.23-15.12.18:848][ 45]LogSavePackage: Moving '../../../../../../Users/mad/Desktop/TopDownShooterRok22027MH/Top_Down_Shooter/Saved/01BA55CEC343DAB9C0D8AA968A4ABC238B.tmp' to '../../../../../../Users/mad/Desktop/TopDownShooterRok22027MH/Top_Down_Shooter/Content/01.umap'
+[2026.10.23-15.12.18:860][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/01_BuiltData" FILE="../../../../../../Users/mad/Desktop/TopDownShooterRok22027MH/Top_Down_Shooter/Content/01_BuiltData.uasset" SILENT=true
+[2026.10.23-15.12.18:872][ 45]LogSavePackage: Moving '../../../../../../Users/mad/Desktop/TopDownShooterRok22027MH/Top_Down_Shooter/Saved/01_BuiltDataEC42591341B835646AF283875DB33E1E.tmp' to '../../../../../../Users/mad/Desktop/TopDownShooterRok22027MH/Top_Down_Shooter/Content/01_BuiltData.uasset'
+[2026.10.23-15.12.18:886][ 45]AssetCheck: New page: Asset Save: multiple assets
+[2026.10.23-15.12.18:886][ 45]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/01_BuiltData.01_BuiltData
+[2026.10.23-15.12.18:886][ 45]LogContentValidation: Display: Validating World /Game/01.01
